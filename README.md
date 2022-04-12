@@ -2,6 +2,8 @@
 
 ### REF
 * [GitHub](https://github.com/ihuaylupo/manning-smia/tree/master/chapter5
+* http://localhost:8071/sample-microservice/dev
+* http://localhost:8071/sample-microservice/default
 
 ### Reference Documentation
 For further reference, please consider the following sections:
